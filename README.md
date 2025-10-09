@@ -44,9 +44,9 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 
-
-## OUTPUT
-![alt text](<Screenshot (19).png>)
+# OUTPUT
+![
+](<Screenshot 2025-10-09 220249.png>)
 
 
 ## RESULT
